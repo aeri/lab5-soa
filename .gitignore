@@ -32,3 +32,4 @@ hs_err_pid*
 application.properties
 *.iml
 /out/
+src/main/resources/application.properties
